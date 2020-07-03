@@ -1,0 +1,79 @@
+
+.d-border{
+  border:1px solid;
+  display: flex;
+  
+}
+.d-border-col{
+    border-left: 1px solid;
+    padding: 5px;
+    /*border-right: 1px solid;*/
+}
+
+.d-padding{
+  border-bottom: 1px solid;
+    padding: 10px;
+}
+
+
+
+
+.nav-menu li {
+	margin-top:10px;
+}
+
+
+
+.btn-book-appointment {
+	padding-left:15px;
+	padding-right:15px;
+	margin-top: -10px
+}
+
+.hmo-name {
+	font-weight:bold;
+	font-family:Georgia;
+	font-size:20px;
+	color:white;
+}
+
+.hmo-name:hover {
+	color: #fff
+}
+
+.banner-area {
+	background: url('../img/4-public-service.jpg') no-repeat center;  
+	background-size: cover;
+}
+
+input[type=email] {
+    text-transform: lowercase;
+}
+
+.mho-description {
+	font-size: 16px;
+	text-indent: 20px;
+	text-align: justify;
+}
+
+#act, .schedule-title  {
+	color: #fff;
+}
+
+#book {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.form-control {
+	font-size: 16px;
+}
+
+#appointment-complaint_id {
+	height: 35px;
+}
+
+select {
+	text-transform: capitalize;
+}
+

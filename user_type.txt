@@ -1,0 +1,9 @@
+USER:
+
+USERNAME		PASSWORD		USER TYPE
+mho123			MHO132			administrator
+birthingstaff		birthingstaff		Birthing Staff
+dentalstaff		dentalstaff		Dental Staff
+waterlaboratorystaff	waterlaboratorystaff	Water laboratory Staff
+dotsstaff		dotsstaff		DOTS Staff
+laboratorystaff		laboratorystaff		Laboratory Staff
