@@ -2,7 +2,8 @@
 
 return [
     'class' => 'yii\db\Connection', 
-    'dsn' => 'mysql:host=localhost;dbname=id8525575_db_carmonahmo',
+    'dsn' => 'mysql:host=localhost;dbname=db_carmonahmo',
+    // 'dsn' => 'mysql:host=localhost;dbname=id8525575_db_carmonahmo',
     // 'dsn' => 'mysql:host=localhost;dbname=id8525575_db_2019_08_25',
     
     'username' => 'root',

@@ -19,7 +19,7 @@
                         <h4 class="text-center"> <br>
                             <?= ucwords($doctor->name) ?><br>
                             <small>
-                                <?= ucwords($doctor->department['name']) ?>
+                                <?= ucwords($doctor->department['name'] ?? '') ?>
                             </small>
                         </h4>                                    
                     </div>
